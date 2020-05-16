@@ -7,8 +7,11 @@ The recognition.py extract data from HMDB51 dataset and process it using various
 <li> SIFT algorithm was applied on that dataframe to extract the SIF points (keypoints and descriptors).</li>
 
 <li> HOG was applied on the original dataframe to extract HOG features. </li>
-<li> Both the above algorithms features have been classified using SVM and KNN. </li>
-<li> SIFT and HOG feature combination has also been implemented and classified using SVM andKNN </li> 
+<li> Both the above algorithms features have been classified using SVM and DNN. </li>
+<li> SIFT and HOG feature combination has also been implemented and classified using SVM and DNN. </li> 
 <li> CNN was used independently directly on the original dataframe. </li>
+
+<a href url="https://gluon-cv.mxnet.io/build/examples_datasets/hmdb51.html"> link to the complete dataset can be downloaded from here. CLICK HERE .  </a>
+
 
 </ul>
