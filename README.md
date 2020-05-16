@@ -4,7 +4,7 @@
 The recognition.py extract data from HMDB51 dataset and process it using various algorithms.
 </p>
 <p>
-<a href url="https://gluon-cv.mxnet.io/build/examples_datasets/hmdb51.html"> link to the complete dataset can be downloaded from here. CLICK HERE .  </a>
+<a href ="https://gluon-cv.mxnet.io/build/examples_datasets/hmdb51.html"> link to the complete dataset can be downloaded from here. CLICK HERE .  </a>
 </p>
 
 <p><ul>
