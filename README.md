@@ -1,8 +1,9 @@
 # action-recognition
 
 <p>
-The recognition.py extract data from HMDB51 dataset and process it using various algorithms.
+The major final year project.ipynb extract data from HMDB51 dataset and process it using various algorithms.
 </p>
+<p> recognition.py is the unchanged code and no modification has been done on that. </p>
 <p>
 <a href ="https://gluon-cv.mxnet.io/build/examples_datasets/hmdb51.html"  target="_blank"> link to the complete dataset can be downloaded from here. CLICK HERE .  </a>
 </p>
