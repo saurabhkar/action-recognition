@@ -1,6 +1,11 @@
 # action-recognition
 
+<p>
 The recognition.py extract data from HMDB51 dataset and process it using various algorithms.
+</p>
+<p>
+<a href url="https://gluon-cv.mxnet.io/build/examples_datasets/hmdb51.html"> link to the complete dataset can be downloaded from here. CLICK HERE .  </a>
+</p>
 
 <p><ul>
 <li> Some random images were taken from each class ( total number of classes =51) and datafame was made using those images. </li>
@@ -11,7 +16,6 @@ The recognition.py extract data from HMDB51 dataset and process it using various
 <li> SIFT and HOG feature combination has also been implemented and classified using SVM and DNN. </li> 
 <li> CNN was used independently directly on the original dataframe. </li>
 
-<a href url="https://gluon-cv.mxnet.io/build/examples_datasets/hmdb51.html"> link to the complete dataset can be downloaded from here. CLICK HERE .  </a>
 
 
 </ul>
